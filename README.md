@@ -1,5 +1,5 @@
 # Documentação do Projeto
-
+ 
 ## 1. Introdução
 
 Este projeto é um aplicativo React Native que gerencia fornecedores. Ele permite o cadastro de fornecedores com informações detalhadas, como nome, endereço, contato, categoria e uma imagem associada. Além disso, oferece uma lista de fornecedores com opções de pesquisa e filtragem por categoria. A interface do aplicativo é intuitiva e fácil de usar.
